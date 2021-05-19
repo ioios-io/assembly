@@ -20,10 +20,13 @@
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%203.jpeg">
+
 #### Prepare PIR sensor (Plus model only)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20PIR%201.jpeg">
+
 #### Prepare USB power board (if using desk stand)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20Micro%201.jpeg">
+
 #### Superglue 8mm hex spacer
 #### Superglude USB power board (if using desk stand)
 
@@ -35,20 +38,25 @@ Trim protruding pins after each step.
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%203.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%204.jpeg">
+
 #### Solder rotary encoder & right-angle switches
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%203.jpeg">
+
 #### Solder SHT31 sensor
 #### Solder rear JST sockets (if using PIR and/or USB power board)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20JST%201.jpeg">
+
 #### Solder Neopixels
 #### Solder D1 Mini
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%201.jpeg">
+
 #### Solder USB plug (if using direct mount)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%203.jpeg">
+
 #### Solder Screen
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Screen%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Screen%202.jpeg">
