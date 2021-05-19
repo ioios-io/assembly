@@ -16,49 +16,49 @@
 * Mounting Putty. Temporary & removeable pressure applier.
 
 ## Preparation Steps
-#### 1: Prepare SHT31 sensor
+#### Prepare SHT31 sensor
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%203.jpeg">
-#### 2: Prepare PIR sensor (Plus model only)
+#### Prepare PIR sensor (Plus model only)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20PIR%201.jpeg">
-#### 3: Prepare USB power board (if using desk stand)
+#### Prepare USB power board (if using desk stand)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20Micro%201.jpeg">
-#### 4: Superglue 8mm hex spacer
-#### 5: Superglude USB power board (if using desk stand)
+#### Superglue 8mm hex spacer
+#### Superglude USB power board (if using desk stand)
 
 ## PCB Assembly
 Trim protruding pins after each step.
 
-#### 1: Solder headers for Neopixels (not the actual Neopixels)
+#### Solder headers for Neopixels (not the actual Neopixels)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%203.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%204.jpeg">
-#### 2: Solder rotary encoder & right-angle switches
+#### Solder rotary encoder & right-angle switches
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%203.jpeg">
-#### 3: Solder SHT31 sensor
-#### 4: Solder rear JST sockets (if using PIR and/or USB power board)
+#### Solder SHT31 sensor
+#### Solder rear JST sockets (if using PIR and/or USB power board)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20JST%201.jpeg">
-#### 5: Solder Neopixels
-#### 6: Solder D1 Mini
+#### Solder Neopixels
+#### Solder D1 Mini
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%201.jpeg">
-#### 7: Solder USB plug (if using direct mount)
+#### Solder USB plug (if using direct mount)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%203.jpeg">
-#### 8: Solder Screen
+#### Solder Screen
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Screen%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Screen%202.jpeg">
 
 ## Case Assembly
 Upload program first! Recommend using OTA updating thereafter.
 
-#### 1: Place PCB onto hex spacers
-#### 2: Insert buttons into sides of housing
-#### 3: Plug in PIR and/or USB power board
-#### 4: Mate the faceplate to the housing
-#### 5: Screw in all 4 screws
-#### 6: Push dial onto rotary encoder shaft
+#### Place PCB onto hex spacers
+#### Insert buttons into sides of housing
+#### Plug in PIR and/or USB power board
+#### Mate the faceplate to the housing
+#### Screw in all 4 screws
+#### Push dial onto rotary encoder shaft
