@@ -51,6 +51,7 @@ Trim protruding pins after each step.
 ### Solder Neopixels
 ### Solder D1 Mini
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%201.jpeg">
+<img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%202.jpeg">
 
 ### Solder USB plug (if using direct mount)
 Instructions coming very soon.
