@@ -53,9 +53,7 @@ Trim protruding pins after each step.
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%201.jpeg">
 
 ### Solder USB plug (if using direct mount)
-<img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%201.jpeg">
-<img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%202.jpeg">
-<img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20USB%203.jpeg">
+Instructions coming very soon.
 
 ### Solder Screen
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Screen%201.jpeg">
