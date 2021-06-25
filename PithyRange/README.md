@@ -1,7 +1,10 @@
 # The Pithy Range from ioios.io
+
 ## Kickstarter Colour Guide
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/Colours.jpeg">
-#### Clockwise from Top-Left
+
+### Clockwise from Top-Left
+
 1. **White**
 2. **Ivory**
 3. **Light Grey**
